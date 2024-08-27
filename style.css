@@ -1,0 +1,42 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    text-align: center;
+}
+
+#timer {
+    font-size: 100px;
+    margin-bottom: 20px;
+    color: #ff0000;
+}
+
+#numeri-casuali {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.numero-input {
+    font-size: 18px;
+    width: 50px;
+    text-align: center;
+    margin: 5px;
+}
+
+#verifica {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    display: none;
+}
+
+#risultato {
+    font-size: 20px;
+    margin-top: 20px;
+}
